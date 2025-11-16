@@ -84,26 +84,26 @@
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moassaad&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=10&theme=graywhite&hide_border=false&order=2" height="200" alt="languages graph"  />
-</div>
+</div> -->
 
 ###
 
-<h2 align="left">My Projects ...</h2>
+<!-- <h2 align="left">My Projects ...</h2> -->
 
 ###
 
-<h3 align="left">Telexphony</h3>
+<!-- <h3 align="left">Telexphony</h3> -->
 
 ###
-
+<!--
 - [Source](https://github.com/moassaad/telexphony)
 - [Web App](https://telexphony.free.nf)
-
+-->
 ###
 ###
 
-<h4 align="center">Thank You :)</h4>
+<h4 align="center">Thanks :)</h4>
 
 ###
