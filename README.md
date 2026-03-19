@@ -16,7 +16,8 @@ My name is Mohammad Asaad and I'm a Software Engineer from Egypt 🇪🇬
 - Design Patterns  
 - Redis  
 - PostgreSQL  
-- System Design  
+- System Design
+- Enterprise Solution
 
 🎯 Goals:
 1. Travel and gain new experiences to expand my knowledge.
